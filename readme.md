@@ -1,3 +1,3 @@
 # Rappoc
 ## Hello World
-[ ] Todo
+[X] Todo
